@@ -13,6 +13,7 @@ Team-built AI/CV under pressure.
 | [Apex F1 Copilot](https://devpost.com/software/real-time-strategy-copilot) | F1 dashboard | React, Python, Gemini | [Watch](https://devpost.com/software/real-time-strategy-copilot#video) |
 | [Mine Watch](https://devpost.com/software/mine-watch) | Mining viz | React, Mapbox | [Watch](https://devpost.com/software/mine-watch#video) |
 | [Bio-Pilot](https://github.com/alanxue1/bio-pilot) | Bio/ML | Python/ML | [Repo](https://github.com/alanxue1/bio-pilot) |
+| [PolyLens](https://github.com/EHout20/PolySearch) | AI Genesis — Prediction markets | Next.js 15, Gemini, TypeScript, Python | [Repo](https://github.com/EHout20/PolySearch) · [Live](https://poly-search-eta.vercel.app) |
 
 **Full Portfolio**: [Devpost/erichout00](https://devpost.com/erichout00)
 
@@ -22,12 +23,15 @@ Team-built AI/CV under pressure.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6B35?style=for-the-badge&logo=google&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-007CBF?style=for-the-badge&logo=mapbox&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 <br>
 
 [Stock Price Prediction](https://github.com/aishwaryapb/stock_price_prediction) - ML forecasts  
 [UWO-TSI Website](https://github.com/UWO-TSI/tsi-website) - Team site [Live](https://uwotsicom.vercel.app)
 
-<img src="https://komarev.com/ghpvc/?username=ehout20&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=ehout20&style=flat-square&color=blue" alt="Profile Views" />
 
 </div>
